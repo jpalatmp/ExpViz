@@ -1,0 +1,820 @@
+{
+    "id": "00-d2ada18fce86df0d042b96132058fc39-2bd204a764ad19d8-01",
+    "created_at": 1701524459,
+    "conversation_id": "8342efcb-d46a-41db-8f8b-9ae8c30bf3dc",
+    "analytics": {
+        "speaker_analytics": [
+            {
+                "id": "VINCENT",
+                "role": "",
+                "analytics": {
+                    "utterance_count": 36,
+                    "talk_turn_count": 27,
+                    "behavior_counts": {
+                        "appreciation": 0,
+                        "conflict": 7,
+                        "confront": 1,
+                        "instruct_direction": 0,
+                        "instruct": 0,
+                        "low_curiosity": 4,
+                        "high_curiosity": 8,
+                        "preparation": 0,
+                        "reflective_listening": 1
+                    },
+                    "frequencies": {
+                        "appreciation": 0,
+                        "conflict": 0.19444445,
+                        "confront": 0.027777778,
+                        "instruct_direction": 0,
+                        "instruct": 0,
+                        "low_curiosity": 0.11111111,
+                        "high_curiosity": 0.22222222,
+                        "preparation": 0,
+                        "reflective_listening": 0.027777778
+                    },
+                    "metrics": {
+                        "collaboration": {
+                            "contributing_behaviors": [
+                                {
+                                    "behavior": "reflective_listening",
+                                    "count": 1,
+                                    "weight_on_score": 100,
+                                    "influence_on_score": "positive"
+                                }
+                            ],
+                            "score": 10
+                        },
+                        "curiosity": {
+                            "contributing_behaviors": [
+                                {
+                                    "behavior": "high_curiosity",
+                                    "count": 8,
+                                    "weight_on_score": 66.66667,
+                                    "influence_on_score": "positive"
+                                },
+                                {
+                                    "behavior": "low_curiosity",
+                                    "count": 4,
+                                    "weight_on_score": 33.333336,
+                                    "influence_on_score": "negative"
+                                }
+                            ],
+                            "score": 6.7
+                        },
+                        "empathy": {
+                            "contributing_behaviors": [
+                                {
+                                    "behavior": "high_curiosity",
+                                    "count": 8,
+                                    "weight_on_score": 38.095238,
+                                    "influence_on_score": "positive"
+                                },
+                                {
+                                    "behavior": "reflective_listening",
+                                    "count": 1,
+                                    "weight_on_score": 4.7619047,
+                                    "influence_on_score": "positive"
+                                },
+                                {
+                                    "behavior": "conflict",
+                                    "count": 7,
+                                    "weight_on_score": 33.333336,
+                                    "influence_on_score": "negative"
+                                },
+                                {
+                                    "behavior": "confront",
+                                    "count": 1,
+                                    "weight_on_score": 4.761905,
+                                    "influence_on_score": "negative"
+                                },
+                                {
+                                    "behavior": "low_curiosity",
+                                    "count": 4,
+                                    "weight_on_score": 19.04762,
+                                    "influence_on_score": "negative"
+                                }
+                            ],
+                            "score": 4.3
+                        }
+                    }
+                }
+            },
+            {
+                "id": "JULES",
+                "role": "",
+                "analytics": {
+                    "utterance_count": 128,
+                    "talk_turn_count": 53,
+                    "behavior_counts": {
+                        "appreciation": 4,
+                        "conflict": 30,
+                        "confront": 13,
+                        "instruct_direction": 3,
+                        "instruct": 0,
+                        "low_curiosity": 5,
+                        "high_curiosity": 5,
+                        "preparation": 0,
+                        "reflective_listening": 2
+                    },
+                    "frequencies": {
+                        "appreciation": 0.03125,
+                        "conflict": 0.234375,
+                        "confront": 0.1015625,
+                        "instruct_direction": 0.0234375,
+                        "instruct": 0,
+                        "low_curiosity": 0.0390625,
+                        "high_curiosity": 0.0390625,
+                        "preparation": 0,
+                        "reflective_listening": 0.015625
+                    },
+                    "metrics": {
+                        "collaboration": {
+                            "contributing_behaviors": [
+                                {
+                                    "behavior": "reflective_listening",
+                                    "count": 2,
+                                    "weight_on_score": 40,
+                                    "influence_on_score": "positive"
+                                },
+                                {
+                                    "behavior": "instruct_direction",
+                                    "count": 3,
+                                    "weight_on_score": 60.000004,
+                                    "influence_on_score": "negative"
+                                }
+                            ],
+                            "score": 4
+                        },
+                        "curiosity": {
+                            "contributing_behaviors": [
+                                {
+                                    "behavior": "high_curiosity",
+                                    "count": 5,
+                                    "weight_on_score": 50,
+                                    "influence_on_score": "positive"
+                                },
+                                {
+                                    "behavior": "low_curiosity",
+                                    "count": 5,
+                                    "weight_on_score": 50,
+                                    "influence_on_score": "negative"
+                                }
+                            ],
+                            "score": 5
+                        },
+                        "empathy": {
+                            "contributing_behaviors": [
+                                {
+                                    "behavior": "appreciation",
+                                    "count": 4,
+                                    "weight_on_score": 6.451613,
+                                    "influence_on_score": "positive"
+                                },
+                                {
+                                    "behavior": "high_curiosity",
+                                    "count": 5,
+                                    "weight_on_score": 8.064516,
+                                    "influence_on_score": "positive"
+                                },
+                                {
+                                    "behavior": "reflective_listening",
+                                    "count": 2,
+                                    "weight_on_score": 3.2258065,
+                                    "influence_on_score": "positive"
+                                },
+                                {
+                                    "behavior": "conflict",
+                                    "count": 30,
+                                    "weight_on_score": 48.3871,
+                                    "influence_on_score": "negative"
+                                },
+                                {
+                                    "behavior": "confront",
+                                    "count": 13,
+                                    "weight_on_score": 20.967743,
+                                    "influence_on_score": "negative"
+                                },
+                                {
+                                    "behavior": "instruct_direction",
+                                    "count": 3,
+                                    "weight_on_score": 4.83871,
+                                    "influence_on_score": "negative"
+                                },
+                                {
+                                    "behavior": "low_curiosity",
+                                    "count": 5,
+                                    "weight_on_score": 8.064516,
+                                    "influence_on_score": "negative"
+                                }
+                            ],
+                            "score": 1.8
+                        }
+                    }
+                }
+            },
+            {
+                "id": "PATRON",
+                "role": "",
+                "analytics": {
+                    "utterance_count": 2,
+                    "talk_turn_count": 1,
+                    "behavior_counts": {
+                        "appreciation": 0,
+                        "conflict": 0,
+                        "confront": 0,
+                        "instruct_direction": 0,
+                        "instruct": 0,
+                        "low_curiosity": 0,
+                        "high_curiosity": 0,
+                        "preparation": 0,
+                        "reflective_listening": 0
+                    },
+                    "frequencies": {
+                        "appreciation": 0,
+                        "conflict": 0,
+                        "confront": 0,
+                        "instruct_direction": 0,
+                        "instruct": 0,
+                        "low_curiosity": 0,
+                        "high_curiosity": 0,
+                        "preparation": 0,
+                        "reflective_listening": 0
+                    },
+                    "metrics": {
+                        "collaboration": {
+                            "contributing_behaviors": [],
+                            "score": null
+                        },
+                        "curiosity": {
+                            "contributing_behaviors": [],
+                            "score": null
+                        },
+                        "empathy": {
+                            "contributing_behaviors": [],
+                            "score": null
+                        }
+                    }
+                }
+            },
+            {
+                "id": "PUMPKIN",
+                "role": "",
+                "analytics": {
+                    "utterance_count": 41,
+                    "talk_turn_count": 33,
+                    "behavior_counts": {
+                        "appreciation": 1,
+                        "conflict": 4,
+                        "confront": 5,
+                        "instruct_direction": 0,
+                        "instruct": 0,
+                        "low_curiosity": 3,
+                        "high_curiosity": 3,
+                        "preparation": 0,
+                        "reflective_listening": 0
+                    },
+                    "frequencies": {
+                        "appreciation": 0.024390243,
+                        "conflict": 0.09756097,
+                        "confront": 0.12195122,
+                        "instruct_direction": 0,
+                        "instruct": 0,
+                        "low_curiosity": 0.07317073,
+                        "high_curiosity": 0.07317073,
+                        "preparation": 0,
+                        "reflective_listening": 0
+                    },
+                    "metrics": {
+                        "collaboration": {
+                            "contributing_behaviors": [],
+                            "score": null
+                        },
+                        "curiosity": {
+                            "contributing_behaviors": [
+                                {
+                                    "behavior": "high_curiosity",
+                                    "count": 3,
+                                    "weight_on_score": 50,
+                                    "influence_on_score": "positive"
+                                },
+                                {
+                                    "behavior": "low_curiosity",
+                                    "count": 3,
+                                    "weight_on_score": 50,
+                                    "influence_on_score": "negative"
+                                }
+                            ],
+                            "score": 5
+                        },
+                        "empathy": {
+                            "contributing_behaviors": [
+                                {
+                                    "behavior": "appreciation",
+                                    "count": 1,
+                                    "weight_on_score": 6.25,
+                                    "influence_on_score": "positive"
+                                },
+                                {
+                                    "behavior": "high_curiosity",
+                                    "count": 3,
+                                    "weight_on_score": 18.75,
+                                    "influence_on_score": "positive"
+                                },
+                                {
+                                    "behavior": "conflict",
+                                    "count": 4,
+                                    "weight_on_score": 25,
+                                    "influence_on_score": "negative"
+                                },
+                                {
+                                    "behavior": "confront",
+                                    "count": 5,
+                                    "weight_on_score": 31.25,
+                                    "influence_on_score": "negative"
+                                },
+                                {
+                                    "behavior": "low_curiosity",
+                                    "count": 3,
+                                    "weight_on_score": 18.75,
+                                    "influence_on_score": "negative"
+                                }
+                            ],
+                            "score": 2.5
+                        }
+                    }
+                }
+            },
+            {
+                "id": "YOLANDA",
+                "role": "",
+                "analytics": {
+                    "utterance_count": 24,
+                    "talk_turn_count": 14,
+                    "behavior_counts": {
+                        "appreciation": 0,
+                        "conflict": 7,
+                        "confront": 6,
+                        "instruct_direction": 0,
+                        "instruct": 0,
+                        "low_curiosity": 1,
+                        "high_curiosity": 4,
+                        "preparation": 0,
+                        "reflective_listening": 0
+                    },
+                    "frequencies": {
+                        "appreciation": 0,
+                        "conflict": 0.29166666,
+                        "confront": 0.25,
+                        "instruct_direction": 0,
+                        "instruct": 0,
+                        "low_curiosity": 0.041666668,
+                        "high_curiosity": 0.16666667,
+                        "preparation": 0,
+                        "reflective_listening": 0
+                    },
+                    "metrics": {
+                        "collaboration": {
+                            "contributing_behaviors": [],
+                            "score": null
+                        },
+                        "curiosity": {
+                            "contributing_behaviors": [
+                                {
+                                    "behavior": "high_curiosity",
+                                    "count": 4,
+                                    "weight_on_score": 80,
+                                    "influence_on_score": "positive"
+                                },
+                                {
+                                    "behavior": "low_curiosity",
+                                    "count": 1,
+                                    "weight_on_score": 20,
+                                    "influence_on_score": "negative"
+                                }
+                            ],
+                            "score": 8
+                        },
+                        "empathy": {
+                            "contributing_behaviors": [
+                                {
+                                    "behavior": "high_curiosity",
+                                    "count": 4,
+                                    "weight_on_score": 22.222223,
+                                    "influence_on_score": "positive"
+                                },
+                                {
+                                    "behavior": "conflict",
+                                    "count": 7,
+                                    "weight_on_score": 38.88889,
+                                    "influence_on_score": "negative"
+                                },
+                                {
+                                    "behavior": "confront",
+                                    "count": 6,
+                                    "weight_on_score": 33.333336,
+                                    "influence_on_score": "negative"
+                                },
+                                {
+                                    "behavior": "low_curiosity",
+                                    "count": 1,
+                                    "weight_on_score": 5.555556,
+                                    "influence_on_score": "negative"
+                                }
+                            ],
+                            "score": 2.2
+                        }
+                    }
+                }
+            },
+            {
+                "id": "MANAGER",
+                "role": "",
+                "analytics": {
+                    "utterance_count": 10,
+                    "talk_turn_count": 5,
+                    "behavior_counts": {
+                        "appreciation": 0,
+                        "conflict": 0,
+                        "confront": 1,
+                        "instruct_direction": 0,
+                        "instruct": 0,
+                        "low_curiosity": 0,
+                        "high_curiosity": 0,
+                        "preparation": 0,
+                        "reflective_listening": 0
+                    },
+                    "frequencies": {
+                        "appreciation": 0,
+                        "conflict": 0,
+                        "confront": 0.1,
+                        "instruct_direction": 0,
+                        "instruct": 0,
+                        "low_curiosity": 0,
+                        "high_curiosity": 0,
+                        "preparation": 0,
+                        "reflective_listening": 0
+                    },
+                    "metrics": {
+                        "collaboration": {
+                            "contributing_behaviors": [],
+                            "score": null
+                        },
+                        "curiosity": {
+                            "contributing_behaviors": [],
+                            "score": null
+                        },
+                        "empathy": {
+                            "contributing_behaviors": [
+                                {
+                                    "behavior": "confront",
+                                    "count": 1,
+                                    "weight_on_score": 100,
+                                    "influence_on_score": "negative"
+                                }
+                            ],
+                            "score": 0
+                        }
+                    }
+                }
+            }
+        ],
+        "role_analytics": [
+            {
+                "role": "",
+                "analytics": {
+                    "utterance_count": 241,
+                    "talk_turn_count": 133,
+                    "behavior_counts": {
+                        "appreciation": 5,
+                        "conflict": 48,
+                        "confront": 26,
+                        "instruct_direction": 3,
+                        "instruct": 0,
+                        "low_curiosity": 13,
+                        "high_curiosity": 20,
+                        "preparation": 0,
+                        "reflective_listening": 3
+                    },
+                    "frequencies": {
+                        "appreciation": 0.020746889,
+                        "conflict": 0.19917013,
+                        "confront": 0.10788382,
+                        "instruct_direction": 0.012448133,
+                        "instruct": 0,
+                        "low_curiosity": 0.05394191,
+                        "high_curiosity": 0.082987554,
+                        "preparation": 0,
+                        "reflective_listening": 0.012448133
+                    },
+                    "metrics": {
+                        "collaboration": {
+                            "contributing_behaviors": [
+                                {
+                                    "behavior": "reflective_listening",
+                                    "count": 3,
+                                    "weight_on_score": 50,
+                                    "influence_on_score": "positive"
+                                },
+                                {
+                                    "behavior": "instruct_direction",
+                                    "count": 3,
+                                    "weight_on_score": 50,
+                                    "influence_on_score": "negative"
+                                }
+                            ],
+                            "score": 5
+                        },
+                        "curiosity": {
+                            "contributing_behaviors": [
+                                {
+                                    "behavior": "high_curiosity",
+                                    "count": 20,
+                                    "weight_on_score": 60.606064,
+                                    "influence_on_score": "positive"
+                                },
+                                {
+                                    "behavior": "low_curiosity",
+                                    "count": 13,
+                                    "weight_on_score": 39.39394,
+                                    "influence_on_score": "negative"
+                                }
+                            ],
+                            "score": 6.1
+                        },
+                        "empathy": {
+                            "contributing_behaviors": [
+                                {
+                                    "behavior": "appreciation",
+                                    "count": 5,
+                                    "weight_on_score": 4.237288,
+                                    "influence_on_score": "positive"
+                                },
+                                {
+                                    "behavior": "high_curiosity",
+                                    "count": 20,
+                                    "weight_on_score": 16.949152,
+                                    "influence_on_score": "positive"
+                                },
+                                {
+                                    "behavior": "reflective_listening",
+                                    "count": 3,
+                                    "weight_on_score": 2.542373,
+                                    "influence_on_score": "positive"
+                                },
+                                {
+                                    "behavior": "conflict",
+                                    "count": 48,
+                                    "weight_on_score": 40.677967,
+                                    "influence_on_score": "negative"
+                                },
+                                {
+                                    "behavior": "confront",
+                                    "count": 26,
+                                    "weight_on_score": 22.0339,
+                                    "influence_on_score": "negative"
+                                },
+                                {
+                                    "behavior": "instruct_direction",
+                                    "count": 3,
+                                    "weight_on_score": 2.542373,
+                                    "influence_on_score": "negative"
+                                },
+                                {
+                                    "behavior": "low_curiosity",
+                                    "count": 13,
+                                    "weight_on_score": 11.01695,
+                                    "influence_on_score": "negative"
+                                }
+                            ],
+                            "score": 2.4
+                        }
+                    }
+                }
+            }
+        ],
+        "conversation_analytics": {
+            "utterance_count": 241,
+            "talk_turn_count": 133,
+            "behavior_counts": {
+                "appreciation": 5,
+                "conflict": 48,
+                "confront": 26,
+                "instruct_direction": 3,
+                "instruct": 0,
+                "low_curiosity": 13,
+                "high_curiosity": 20,
+                "preparation": 0,
+                "reflective_listening": 3
+            },
+            "frequencies": {
+                "appreciation": 0.020746889,
+                "conflict": 0.19917013,
+                "confront": 0.10788382,
+                "instruct_direction": 0.012448133,
+                "instruct": 0,
+                "low_curiosity": 0.05394191,
+                "high_curiosity": 0.082987554,
+                "preparation": 0,
+                "reflective_listening": 0.012448133
+            },
+            "metrics": {
+                "collaboration": {
+                    "contributing_behaviors": [
+                        {
+                            "behavior": "reflective_listening",
+                            "count": 3,
+                            "weight_on_score": 50,
+                            "influence_on_score": "positive"
+                        },
+                        {
+                            "behavior": "instruct_direction",
+                            "count": 3,
+                            "weight_on_score": 50,
+                            "influence_on_score": "negative"
+                        }
+                    ],
+                    "score": 5
+                },
+                "curiosity": {
+                    "contributing_behaviors": [
+                        {
+                            "behavior": "high_curiosity",
+                            "count": 20,
+                            "weight_on_score": 60.606064,
+                            "influence_on_score": "positive"
+                        },
+                        {
+                            "behavior": "low_curiosity",
+                            "count": 13,
+                            "weight_on_score": 39.39394,
+                            "influence_on_score": "negative"
+                        }
+                    ],
+                    "score": 6.1
+                },
+                "empathy": {
+                    "contributing_behaviors": [
+                        {
+                            "behavior": "appreciation",
+                            "count": 5,
+                            "weight_on_score": 4.237288,
+                            "influence_on_score": "positive"
+                        },
+                        {
+                            "behavior": "high_curiosity",
+                            "count": 20,
+                            "weight_on_score": 16.949152,
+                            "influence_on_score": "positive"
+                        },
+                        {
+                            "behavior": "reflective_listening",
+                            "count": 3,
+                            "weight_on_score": 2.542373,
+                            "influence_on_score": "positive"
+                        },
+                        {
+                            "behavior": "conflict",
+                            "count": 48,
+                            "weight_on_score": 40.677967,
+                            "influence_on_score": "negative"
+                        },
+                        {
+                            "behavior": "confront",
+                            "count": 26,
+                            "weight_on_score": 22.0339,
+                            "influence_on_score": "negative"
+                        },
+                        {
+                            "behavior": "instruct_direction",
+                            "count": 3,
+                            "weight_on_score": 2.542373,
+                            "influence_on_score": "negative"
+                        },
+                        {
+                            "behavior": "low_curiosity",
+                            "count": 13,
+                            "weight_on_score": 11.01695,
+                            "influence_on_score": "negative"
+                        }
+                    ],
+                    "score": 2.4
+                }
+            }
+        },
+        "synchrony_scores": [
+            {
+                "calculation_type": "speaker",
+                "identifier_one": "VINCENT",
+                "identifier_two": "JULES",
+                "synchrony_score": null,
+                "reason": "Speaker VINCENT has less than 40 utterances"
+            },
+            {
+                "calculation_type": "speaker",
+                "identifier_one": "VINCENT",
+                "identifier_two": "PATRON",
+                "synchrony_score": null,
+                "reason": "Speaker VINCENT has less than 40 utterances"
+            },
+            {
+                "calculation_type": "speaker",
+                "identifier_one": "VINCENT",
+                "identifier_two": "PUMPKIN",
+                "synchrony_score": null,
+                "reason": "Speaker VINCENT has less than 40 utterances"
+            },
+            {
+                "calculation_type": "speaker",
+                "identifier_one": "VINCENT",
+                "identifier_two": "YOLANDA",
+                "synchrony_score": null,
+                "reason": "Speaker VINCENT has less than 40 utterances"
+            },
+            {
+                "calculation_type": "speaker",
+                "identifier_one": "VINCENT",
+                "identifier_two": "MANAGER",
+                "synchrony_score": null,
+                "reason": "Speaker VINCENT has less than 40 utterances"
+            },
+            {
+                "calculation_type": "speaker",
+                "identifier_one": "JULES",
+                "identifier_two": "PATRON",
+                "synchrony_score": null,
+                "reason": "Speaker  PATRON has less than 40 utterances"
+            },
+            {
+                "calculation_type": "speaker",
+                "identifier_one": "JULES",
+                "identifier_two": "PUMPKIN",
+                "synchrony_score": 0.31092447,
+                "reason": null
+            },
+            {
+                "calculation_type": "speaker",
+                "identifier_one": "JULES",
+                "identifier_two": "YOLANDA",
+                "synchrony_score": null,
+                "reason": "Speaker  YOLANDA has less than 40 utterances"
+            },
+            {
+                "calculation_type": "speaker",
+                "identifier_one": "JULES",
+                "identifier_two": "MANAGER",
+                "synchrony_score": null,
+                "reason": "Speaker  MANAGER has less than 40 utterances"
+            },
+            {
+                "calculation_type": "speaker",
+                "identifier_one": "PATRON",
+                "identifier_two": "PUMPKIN",
+                "synchrony_score": null,
+                "reason": "Speaker PATRON has less than 40 utterances"
+            },
+            {
+                "calculation_type": "speaker",
+                "identifier_one": "PATRON",
+                "identifier_two": "YOLANDA",
+                "synchrony_score": null,
+                "reason": "Speaker PATRON has less than 40 utterances"
+            },
+            {
+                "calculation_type": "speaker",
+                "identifier_one": "PATRON",
+                "identifier_two": "MANAGER",
+                "synchrony_score": null,
+                "reason": "Speaker PATRON has less than 40 utterances"
+            },
+            {
+                "calculation_type": "speaker",
+                "identifier_one": "PUMPKIN",
+                "identifier_two": "YOLANDA",
+                "synchrony_score": null,
+                "reason": "Speaker  YOLANDA has less than 40 utterances"
+            },
+            {
+                "calculation_type": "speaker",
+                "identifier_one": "PUMPKIN",
+                "identifier_two": "MANAGER",
+                "synchrony_score": null,
+                "reason": "Speaker  MANAGER has less than 40 utterances"
+            },
+            {
+                "calculation_type": "speaker",
+                "identifier_one": "YOLANDA",
+                "identifier_two": "MANAGER",
+                "synchrony_score": null,
+                "reason": "Speaker YOLANDA has less than 40 utterances"
+            },
+            {
+                "calculation_type": "role",
+                "identifier_one": "",
+                "identifier_two": "",
+                "synchrony_score": null,
+                "reason": "There are less than 2 roles in the conversation"
+            }
+        ]
+    },
+    "api_version": "2023-06-30"
+}

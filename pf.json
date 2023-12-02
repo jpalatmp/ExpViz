@@ -1,0 +1,940 @@
+{
+  "talk_turns": [
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "Thanks a bunch.\n                              (to Jules, who's \n                              nursing his coffee)\n                         Want a sausage?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "Naw, I don't eat pork."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "Are you Jewish?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "I ain't Jewish man, I just don't dig \n                         on swine."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "Why not?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "They're filthy animals. I don't eat \n                         filthy animals."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "Sausages taste good. Pork chops taste \n                         good."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "A sewer rat may taste like pumpkin \n                         pie.  I'll never know 'cause even if \n                         it did, I wouldn't eat the filthy \n                         motherfucker. Pigs sleep and root in \n                         shit. That's a filthy animal. I don't \n                         wanna eat nothin' that ain't got \n                         enough sense to disregard its own \n                         feces."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "How about dogs? Dogs eat their own \n                         feces."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "I don't eat dog either."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "Yes, but do you consider a dog to be \n                         a filthy animal?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "I wouldn't go so far as to call a \n                         dog filthy, but they're definitely \n                         dirty. But a dog's got personality. \n                         And personality goes a long way."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "So by that rationale, if a pig had a \n                         better personality, he's cease to be \n                         a filthy animal?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "We'd have to be talkin' 'bout one \n                         motherfuckin' charmin' pig. It'd \n                         have to be the Cary Grant of pigs."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "Good for you. Lighten up a little. \n                         You been sittin' there all quiet."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "I just been sittin' here thinkin'."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "About what?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "The miracle we witnessed."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "The miracle you witnessed. I witnessed \n                         a freak occurrence."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "Do you know that a miracle is?"
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "An act of God."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "What's an act of God?"
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "I guess it's when God makes the \n                         impossible possible. And I'm sorry \n                         Jules, but I don't think what happened \n                         this morning qualifies."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "Don't you see, Vince, that shit don't \n                         matter. You're judging this thing \n                         the wrong way. It's not about what. \n                         It could be God stopped the bullets, \n                         he changed Coke into Pepsi, he found \n                         my fuckin' car keys. You don't judge \n                         shit like this based on merit. Whether \n                         or not what we experienced was an \n                         according-to-Hoyle miracle is \n                         insignificant. What is significant \n                         is I felt God's touch, God got \n                         involved."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "But why?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "That's what's fuckin' wit' me! I \n                         don't know why. But I can't go back \n                         to sleep."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "So you're serious, you're really \n                         gonna quit?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "The life, most definitely."
+    },
+    {
+      "speaker": {
+        "id": "PATRON",
+        "role": ""
+      },
+      "input": "Garcon! Coffee!"
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "So if you're quitting the life, \n                         what'll you do?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "That's what I've been sitting here \n                         contemplating. First, I'm gonna \n                         deliver this case to Marsellus. Then, \n                         basically, I'm gonna walk the earth."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "What do you mean, walk the earth?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "You know, like Caine in \"KUNG FU.\" \n                         Just walk from town to town, meet \n                         people, get in adventures."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "How long do you intend to walk the \n                         earth?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "Until God puts me where he want me \n                         to be."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "What if he never does?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "If it takes forever, I'll wait \n                         forever."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "So you decided to be a bum?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "I'll just be Jules, Vincent \u2013 no \n                         more, no less."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "No Jules, you're gonna be like those \n                         pieces of shit out there who beg for \n                         change. They walk around like a bunch \n                         of fuckin' zombies, they sleep in \n                         garbage bins, they eat what I throw \n                         away, and dogs piss on 'em. They got \n                         a word for 'em, they're called bums. \n                         And without a job, residence, or \n                         legal tender, that's what you're \n                         gonna be \u2013 a fuckin' bum!"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "Look my friend, this is just where \n                         me and you differ \u2013"
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "\u2013 what happened was peculiar \u2013 no \n                         doubt about it \u2013 but it wasn't water \n                         into wine."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "All shapes and sizes, Vince."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "Stop fuckin' talkin' like that!"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "If you find my answers frightening, \n                         Vincent, you should cease askin' \n                         scary questions."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "I gotta take a shit. To be continued."
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "Everybody be cool, this is a robbery!"
+    },
+    {
+      "speaker": {
+        "id": "YOLANDA",
+        "role": ""
+      },
+      "input": "Any of you fuckin' pricks move and \n                         I'll execute every one of you \n                         motherfuckers!  Got that?!"
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "Customers stay seated, waitresses on \n                         the floor."
+    },
+    {
+      "speaker": {
+        "id": "YOLANDA",
+        "role": ""
+      },
+      "input": "Now mean fuckin' now! Do it or die, \n                         do it or fucking die!"
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "You Mexicans in the kitchen, get out \n                         here!  Asta luego!"
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "On the floor or I'll cook you ass, \n                         comprende?"
+    },
+    {
+      "speaker": {
+        "id": "MANAGER",
+        "role": ""
+      },
+      "input": "I'm the manager here, there's no \n                         problem, no problem at all \u2013"
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "You're gonna give me a problem?"
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "What? You said you're gonna give me \n                         a problem?"
+    },
+    {
+      "speaker": {
+        "id": "MANAGER",
+        "role": ""
+      },
+      "input": "No, I'm not. I'm not gonna give you \n                         any problem!"
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "I don't know, YOLANDA. He looks \n                         like the hero type to me!"
+    },
+    {
+      "speaker": {
+        "id": "YOLANDA",
+        "role": ""
+      },
+      "input": "Don't take any chances. Execute him!"
+    },
+    {
+      "speaker": {
+        "id": "MANAGER",
+        "role": ""
+      },
+      "input": "Please don't! I'm not a hero. I'm \n                         just a coffee shop manager. Take \n                         anything you want."
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "Tell everyone to cooperate and it'll \n                         be all over."
+    },
+    {
+      "speaker": {
+        "id": "MANAGER",
+        "role": ""
+      },
+      "input": "Everybody just be calm and cooperate \n                         with them and this will be all over \n                         soon!"
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "Well done, now git your fuckin' ass \n                         on the ground."
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "Okay people, I'm going to go 'round \n                         and collect your wallets. Don't talk, \n                         just toss 'em in the bag. We clear?"
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "In the bag."
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "What's in that?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "My boss' dirty laundry."
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "You boss makes you do his laundry?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "When he wants it clean."
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "Sounds like a shit job."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "Funny, I've been thinkin' the same \n                         thing."
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "Open it up."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "'Fraid I can't do that."
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "I didn't hear you."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "Yes, you did."
+    },
+    {
+      "speaker": {
+        "id": "YOLANDA",
+        "role": ""
+      },
+      "input": "What's goin' on?"
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "Looks like we got a vigilante in our \n                         midst."
+    },
+    {
+      "speaker": {
+        "id": "YOLANDA",
+        "role": ""
+      },
+      "input": "Shoot 'em in the face!"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "I don't mean to shatter your ego, \n                         but this ain't the first time I've \n                         had gun pointed at me."
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "You don't open up that case, it's \n                         gonna be the last."
+    },
+    {
+      "speaker": {
+        "id": "MANAGER",
+        "role": ""
+      },
+      "input": "(on the ground)\n                         Quit causing problems, you'll get us \n                         all killed! Give 'em what you got \n                         and get 'em out of here."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "Keep your fuckin' mouth closed, fat \n                         man, this ain't any of your goddamn \n                         business!"
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "I'm countin' to three, and if your \n                         hand ain't off that case, I'm gonna \n                         unload right in your fuckin' face. \n                         Clear? One..."
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "...two... three."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "You win."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "It's all yours, Ringo."
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "Open it."
+    },
+    {
+      "speaker": {
+        "id": "YOLANDA",
+        "role": ""
+      },
+      "input": "What is it? What is it?"
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "(softly)\n                         Is that what I think it is?"
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "It's beautiful."
+    },
+    {
+      "speaker": {
+        "id": "YOLANDA",
+        "role": ""
+      },
+      "input": "Goddammit, what is it?"
+    },
+    {
+      "speaker": {
+        "id": "YOLANDA",
+        "role": ""
+      },
+      "input": "Let him go! Let him go! I'll blow \n                         your fuckin' head off! I'll kill ya! \n                         I'll kill ya! You're gonna die, you're \n                         gonna fuckin' die bad!"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "Tell that bitch to be cool! Say, \n                         bitch be cool! Say, bitch be cool!"
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "Chill out, honey!"
+    },
+    {
+      "speaker": {
+        "id": "YOLANDA",
+        "role": ""
+      },
+      "input": "Let him go!"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "Tell her it's gonna be okay."
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "I'm gonna be okay."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "Promise her."
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "I promise."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "Tell her to chill."
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "Just chill out."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "What's her name?"
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "Yolanda."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "So, we cool Yolanda? We ain't gonna \n                         do anything stupid, are we?"
+    },
+    {
+      "speaker": {
+        "id": "YOLANDA",
+        "role": ""
+      },
+      "input": "Don't you hurt him."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "Nobody's gonna hurt anybody. We're \n                         gonna be like three Fonzies. And \n                         what' Fonzie like?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "C'mon Yolanda, what's Fonzie like?"
+    },
+    {
+      "speaker": {
+        "id": "YOLANDA",
+        "role": ""
+      },
+      "input": "He's cool?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "Correct-amundo! And that's what we're \n                         gonna be, we're gonna be cool.\n                              (to Pumpkin)\n                         Now Ringo, I'm gonna count to three \n                         and I want you to let go your gun \n                         and lay your palms flat on the table. \n                         But when you do it, do it cool. Ready?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "One... two... three."
+    },
+    {
+      "speaker": {
+        "id": "YOLANDA",
+        "role": ""
+      },
+      "input": "Okay, now let him go!"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "Yolanda, I thought you were gonna be \n                         cool.  When you yell at me, it makes \n                         me nervous.  When I get nervous, I \n                         get scared. And when motherfuckers \n                         get scared, that's when motherfuckers \n                         get accidentally shot."
+    },
+    {
+      "speaker": {
+        "id": "YOLANDA",
+        "role": ""
+      },
+      "input": "Just know: you hurt him, you die."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "That seems to be the situation. Now \n                         I don't want that and you don't want \n                         that and Ringo here don't want that. \n                         So let's see what we can do.\n                              (to Ringo)\n                         Now this is the situation. Normally \n                         both of your asses would be dead as \n                         fuckin' fried chicken. But you \n                         happened to pull this shit while I'm \n                         in a transitional period. I don't \n                         wanna kill ya, I want to help ya. \n                         But I'm afraid I can't give you the \n                         case. It don't belong to me. Besides, \n                         I went through too much shit this \n                         morning on account of this case to \n                         just hand it over to your ass."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "What the fuck's goin' on here?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "It's cool, Vincent! It's cool! Don't \n                         do a goddamn thing. Yolanda, it's \n                         cool baby, nothin's changed. We're \n                         still just talkin'.\n                              (to Pumpkin)\n                         Tell her we're still cool."
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "It's cool, YOLANDA, we're still \n                         cool."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "What the hell's goin' on, Jules?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "Nothin' I can't handle. I want you \n                         to just hang back and don't do shit \n                         unless it's absolutely necessary."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "Check."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "Yolanda, how we doin, baby?"
+    },
+    {
+      "speaker": {
+        "id": "YOLANDA",
+        "role": ""
+      },
+      "input": "I gotta go pee! I want to go home."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "Just hang in there, baby, you're \n                         doing' great, Ringo's proud of you \n                         and so am I.  It's almost over.\n                              (to Pumpkin)\n                         Now I want you to go in that bag and \n                         find my wallet."
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "Which one is it?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "It's the one that says Bad \n                         Motherfucker on it."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "That's my bad motherfucker. Now open \n                         it up and take out the cash. How \n                         much is there?"
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "About fifteen hundred dollars."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "Put it in your pocket, it's yours. \n                         Now with the rest of them wallets \n                         and the register, that makes this a \n                         pretty successful little score."
+    },
+    {
+      "speaker": {
+        "id": "VINCENT",
+        "role": ""
+      },
+      "input": "Jules, if you give this nimrod fifteen \n                         hundred buck, I'm gonna shoot 'em on \n                         general principle."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "You ain't gonna do a goddamn thing, \n                         now hang back and shut the fuck up. \n                         Besides, I ain't givin' it to him. \n                         I'm buyin' somethin' for my money. \n                         Wanna know what I'm buyin' Ringo?"
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "What?"
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "Your life. I'm givin' you that money \n                         so I don't hafta kill your ass. You \n                         read the Bible?"
+    },
+    {
+      "speaker": {
+        "id": "PUMPKIN",
+        "role": ""
+      },
+      "input": "Not regularly."
+    },
+    {
+      "speaker": {
+        "id": "JULES",
+        "role": ""
+      },
+      "input": "There's a passage I got memorized. \n                         Ezekiel 25:17. \"The path of the \n                         righteous man is beset on all sides \n                         by the inequities of the selfish and \n                         the tyranny of evil men.  Blessed is \n                         he who, in the name of charity and \n                         good will, shepherds the weak through \n                         the valley of the darkness. For he \n                         is truly his brother's keeper and \n                         the finder of lost children. And I \n                         will strike down upon thee with great \n                         vengeance and furious anger those \n                         who attempt to poison and destroy my \n                         brothers. And you will know I am the \n                         Lord when I lay my vengeance upon \n                         you.\" I been sayin' that shit for \n                         years.  And if you ever heard it, it \n                         meant your ass. I never really \n                         questioned what it meant. I thought \n                         it was just a coldblooded thing to \n                         say to a motherfucker 'fore you popped \n                         a cap in his ass. But I saw some \n                         shit this mornin' made me think twice. \n                         Now I'm thinkin', it could mean you're \n                         the evil man. And I'm the righteous \n                         man.  And Mr. .45 here, he's the \n                         shepherd protecting my righteous ass \n                         in the valley of darkness. Or is \n                         could by you're the righteous man \n                         and I'm the shepherd and it's the \n                         world that's evil and selfish.  I'd \n                         like that. But that shit ain't the \n                         truth. The truth is you're the weak. \n                         And I'm the tyranny of evil men. But \n                         I'm tryin'. I'm tryin' real hard to \n                         be a shepherd."
+    }
+  ],
+  "conversation_id": "121",
+  "include_conversation": true,
+  "include_suggestions": true,
+  "include_tips": true,
+  "include_definitions": true
+}
